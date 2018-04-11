@@ -21,9 +21,9 @@ habilidades y conceptos.
 
 Nos proponemos desarrollar proyectos educativos, pedagógicos y multidisciplinarios en tecnología para jóvenes, así como capacitar formadores y brindarles las herramientas necesarias para llevarlos a cabo.
 
-- Producción de contenidos: Tutoriales, actividades, glosarios, código, etc., divulgados a través de Licencias Libres.
-- Talleres: De modalidad presencial, brindamos talleres de distintos espacios (escuelas, centros culturales, eventos, etc.) que pueden ser cuatrimestrales o de un día.
-- Capacitación: Para docentes y educadores no formales, brindamos las herramientas básicas para llevar adelante las actividades propuestas por LTC.
+- **Producción de contenidos:** Tutoriales, actividades, glosarios, código, etc., divulgados a través de Licencias Libres.
+- **Talleres:** De modalidad presencial, brindamos talleres de distintos espacios (escuelas, centros culturales, eventos, etc.) que pueden ser cuatrimestrales o de un día.
+- **Capacitación:** Para docentes y educadores no formales, brindamos las herramientas básicas para llevar adelante las actividades propuestas por LTC.
 
 En este repositorio encontrarás el material necesario para realizar nuestras actividades.
 
