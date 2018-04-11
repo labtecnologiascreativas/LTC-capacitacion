@@ -1,9 +1,12 @@
+
+<img src="https://ltc.camba.coop/wp-content/uploads/2018/02/logo_horizontal_259x70.png" />
+
 # Capacitacion - Laboratorio de Tecnologías Creativas
 Material para capacitación en las actividades de LTC
 
 ## ¿Qué es LTC?
 
-El Laboratorio de Tecnologías Creativas, o LTC, es una iniciativa de la Cooperativa de Trabajo Cambá. Nace a raíz de un proyecto colaborativo desarrollado en el ámbito de [FACTTIC](http://facttic.org.ar/) (Federación Argentina de Cooperativas de Trabajo de Tecnología, Innovación y Conocimiento) llamado [De Mentes Libres](menteslibres.facttic.org.ar/), en el cual llevamos adelante talleres de programación, robótica y electrónica en diversos espacios sociales.
+El Laboratorio de Tecnologías Creativas, o LTC, es una iniciativa de la [Cooperativa de Trabajo Cambá](https://camba.coop). Nace a raíz de un proyecto colaborativo desarrollado en el ámbito de [FACTTIC](http://facttic.org.ar/) (Federación Argentina de Cooperativas de Trabajo de Tecnología, Innovación y Conocimiento) llamado [De Mentes Libres](menteslibres.facttic.org.ar/), en el cual llevamos adelante talleres de programación, robótica y electrónica en diversos espacios sociales.
 
 Luego de esta experiencia, decidimos impulsar desde Cambá la creación de un departamento educativo que permita socializar los saberes construidos luego de años de formación continua, constante y desde el hacer.
 
