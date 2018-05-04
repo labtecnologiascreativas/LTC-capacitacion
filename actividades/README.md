@@ -2,6 +2,8 @@
 
 Las actividades se encuentran alojadas en distintos repositorios, que podés encontrar en [nuestra organización en Github](https://github.com/labtecnologiascreativas).
 
+**Nota: Te recomendamos que actualices cada cierto tiempo los repositorios que utilizás, ya que se van agregando cosas o modificando y siempre la última versión es la que podés encontrar en Github**
+
 ## ¿Qué es Github?
 
 
