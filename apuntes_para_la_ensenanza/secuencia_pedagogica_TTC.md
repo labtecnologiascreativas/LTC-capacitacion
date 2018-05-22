@@ -56,7 +56,7 @@ y carga del programa, modificaciones.
 A medida que los grupos van avanzando, generalmente a distintos ritmos, vamos explicando nuevos conceptos particularmente o 
 en general para toda la clase.
 
-##### Button 
+#### Button 
 
 Se introducen los siguientes elementos y se explica su funcionamiento:
 
@@ -70,8 +70,26 @@ Se introducen los siguientes elementos y se explica su funcionamiento:
 - Resistencia eléctrica
 - Condicional (if / else)
 
-**Problemas/inconvenientes cocnocidos:**
+**Problemas/inconvenientes conocidos:**
 
 - Destacar la descripción de las resistencias y su código de color, para que puedan elegir la correcta.
 - A veces tienen dificultad en conectar los componentes en la protoboard, generalmente el botón. Reforzamos la idea de que intenten de varias formas,
-si necesitan pinza o alguna otra herramienta la pueden usar, y que si se rompe no importa.s
+si necesitan pinza o alguna otra herramienta la pueden usar, y que si se rompe no importa.
+
+#### Motores
+
+Hay varios desafíos de motores de corriente continua, y cada uno usa un shield y librerías diferentes. Explicamos que es un shield y su librería.
+
+**Herramientas:** 
+- Destornilladores perilleros
+- Cables con pinzas de cocodrilo
+
+**Conceptos:**
+- Shield
+- Librería
+- Palabras específicas utilizadas por la libreria (FORDWARD, RELEASE, Etc.)
+- Bornes
+
+**Problemas/inconvenientes conocidos:**
+- Problemas con la librería: a veces olvidamos instalar la librería en la máquina que estamos usando. Para hacerlo, en cada carpeta de desafío hay una carpeta /lib que contiene un archivo ".zip". En el menú de la IDE de Arduino, elegimos Programa > Incluir Librería > Añadir Librería ZIP.  
+- A veces hay dificultad para deducir como usar el shield y el arduino. Los invitamos a que inspeccionen las dos placas y terminan resolviendo como usarlos.
